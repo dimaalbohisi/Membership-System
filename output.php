@@ -43,7 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <meta charset="UTF-8">
         <title>Registration Result</title>
         <style>
-            /* تنسيق عام وبسيط */
+            
             body { 
                 font-family: "Times New Roman", Times, serif; 
                 padding: 40px; 
@@ -93,4 +93,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     exit();
 }
 ?>
+
 
