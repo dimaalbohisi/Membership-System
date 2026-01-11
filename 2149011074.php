@@ -1,5 +1,5 @@
 <?php
-// Q2: تعريف المصفوفة
+
 $membership = array("Free", "Premium", "Unlimited");
 ?>
 <!DOCTYPE html>
@@ -17,12 +17,12 @@ $membership = array("Free", "Premium", "Unlimited");
         h2 { 
             font-style: italic; 
             font-size: 22px; 
-            margin-bottom: 30px; /* مسافة تحت العنوان */
+            margin-bottom: 30px; 
         }
 
-        /* زيادة المسافة بين كل سطر والآخر */
+       
         .row { 
-            margin-bottom: 18px; /* مسافة أكبر ليعطي شكل مريح */
+            margin-bottom: 18px; 
         }
 
         label { 
@@ -109,6 +109,7 @@ $membership = array("Free", "Premium", "Unlimited");
 
 </body>
 </html>
+
 
 
  
